@@ -1,5 +1,5 @@
-<a href="https://www.islas.org.mx"><img src="https://www.islas.org.mx/img/logo.svg" align="right" width="256" /></a>
-<a href="https://www.islas.org.mx"><img src="https://raw.githubusercontent.com/IslasGECI/bycatch_gulf_of_california/develop/assesst/bycatchR_02.png" align="left" width="128" /></a>
+<a href="https://www.islas.org.mx"><img src="https://www.islas.org.mx/img/logo.svg" width="256" /></a>
+<a href="https://www.islas.org.mx"><img src="https://raw.githubusercontent.com/IslasGECI/bycatch_gulf_of_california/develop/assesst/bycatchR_02.png" align="right" width="128" /></a>
 
 
 # bycatchR
