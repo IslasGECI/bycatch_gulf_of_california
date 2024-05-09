@@ -29,6 +29,9 @@ clean:
 coverage: setup tests
 	Rscript tests/testthat/coverage.R
 
+example:
+	Rscript src/seabird_interactions_and_bycatch.R
+
 format:
 	R -e "library(styler)" \
       -e "style_dir('R')" \
