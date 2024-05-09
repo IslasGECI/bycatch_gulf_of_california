@@ -1,5 +1,7 @@
 <a href="https://www.islas.org.mx"><img src="https://www.islas.org.mx/img/logo.svg" align="right" width="256" /></a>
 
+<a href="https://www.islas.org.mx"><img src="https://raw.githubusercontent.com/IslasGECI/bycatch_gulf_of_california/develop/assesst/bycatchR_02.png" align="left" width="256" /></a>
+
 # Template for R projects
 [![codecov](https://codecov.io/gh/IslasGECI/bycatch_gulf_of_california/graph/badge.svg?token=wyxnwZypMA)](https://codecov.io/gh/IslasGECI/clean_camera_data)
 ![example branch
