@@ -66,3 +66,57 @@ etapa de la faena y la posición del observador.
 
 La actividad de pesca se realiza en periodos de 22 a 26 días centrados en la luna nueva
 (Morales et al., 2021) llamados comúnmente como oscuros.
+
+#### 2.3 Data analysis 
+El estudio analizó un total de 2,304 lances de pesca distribuidos en 899 viajes. La
+abundancia total (número de aves registrada en todos los lances) así como la abundancia por
+especie fue determinada, la frecuencia de ocurrencia (FO%) fue establecida como el
+porcentaje en el cual la especie tuvo presencia de aparición respecto al total de lances
+registrados. The Kruskal–Wallis Test fue utilizado para determinas si la abundancia de aves
+presentaba diferencias por áreas y oscuro de pesca. De la misma manera para conocer la
+diferencia entre la composición de especies se utilizó un análisis multivariado de
+similitud (ANOSIM), posteriormente, se aplicó el análisis de porcentajes de similitud para
+conocer las especies que mayores grados de disimilitud aportaban entre zonas y oscuros.
+
+Finalmente, fue utilizada una Chi-cuadrada para conocer si la proporción de la abundancia
+total, así como el número de captura incidental era diferentes de acuerdo con el horario
+operativo.
+
+### 3. Results
+#### 3.1 Seabird composition and abundance
+La presencia de aves marinas fue del 81% (n=1,879) del total de lances registrados y en el
+85% (n=757) de viajes abordados. Se identificaron 31 especies de aves marinas que tuvieron
+interacción en la faena de pesca resultando en 205,920 individuos. Las especies registradas
+con mayor frecuencia fue el pelicano pardo (Pelecanus occidentalis) (63.8%), la gaviota
+ploma (Larus heermanni) (37.5%), la gaviota reidora (Larus atricilla) (40.8%), la gaviota
+pata amarilla (Larus livens) (13.0%) y la tijereta (Fregata magnificens) (12.6%) el resto
+de las especies tuvieron menos del 10% de observaciones (Tabla 1).
+
+La abundancia de aves marinas presentó variaciones significativas de acuerdo con el oscuro
+y área de pesca (Kruskal-Wallis X2=93.914, d.f = 8, p< 0.05; X2=128.32, d.f = 9, p< 0.05,
+respectivamente).
+
+El número de aves presentes de día (n=142,537) fue mayor respecto a la noche (n=63,383),
+obteniendo una proporción general de 2.2:1 (D:N), teniendo diferencias significativas (X2=
+30426, p<0.05).
+
+#### 3.3 Seabird interaction
+La interacción general con la flota fue de 230 birds/trip y 89.14 birds/set, el número de
+interacciones vario de acuerdo con el oscuro y área de pesca donde se desarrollará la
+actividad. Los oscuros del IV al VI presentaron los valores más elevados de interacción con
+13.7 birds/set, 13.4 birds/set y 17.8 birds/set, respectivamente (Fig. 2). En cuanto a las
+áreas de pesca las interacciones más elevadas se registraron tanto en la zona V (22.4 birds
+set) como en la X (20.91 birds/set) (Fig. 2). 
+
+De acuerdo con el horario, la mayor interacción se alcanzó en el transcurso del día (día=
+159.2 birds/trip, 61.7 birds/set, noche= 70.8 birds/trip, 27.4 birds/set).
+#### 3.4 Seabird bycatch
+El bycatch fue registrado en 80 viajes (8%) y 119 lances (5%), el número de aves afectadas
+fue de 414 perteneciente a 9 especies con una mortalidad general de 0.44 birds/trip y 0.18
+birds/set. Los valores de bycatch para cada oscuro estuvieron por debajo de 0.5 birds/set
+(Fig. 2). Semejante, las áreas de pesca mantuvieron valores por debajo de 0.07 birds/set,
+las áreas con mayor mortalidad fueron la IV (0.06 birds/set), V (0.04 birds/set) y X (0.05
+birds/set) (Fig. 2).
+
+El bycatch de día (n=272) fue mayor al de la noche (n=142), la proporción fue de 1.9:1
+(D:N) teniendo diferencia significativa (X2= 40.82, p<0.05). 
