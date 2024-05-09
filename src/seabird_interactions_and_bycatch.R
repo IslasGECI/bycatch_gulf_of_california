@@ -3,18 +3,15 @@ library(dplyr)
 library(vegan)
 library(indicspecies)
 
-Aves <- read_csv("C:/Users/ctorr/OneDrive/Escritorio/Base_aves_2.csv")
-View(Aves)
+Aves <- read_csv("/workdir/tests/data/Base_aves_2.csv")
 names(Aves)
 
 Aves1 <- subset(Aves, `Lances` == c("CL")) # Seleccionamos solo lances E, LA y LF.
 attach(Aves1)
-View(Aves1)
 #----
 # análisis por oscuro y área de pesca
 
 boxplot(`Total` ~ `NombreCO`, outline = F) # gráfico
-
 
 shapiro.test(Aves$Total) # prueba de normalidad. p <0.05 no son parametricos
 fligner.test(`Total` ~ `No. Oscuro`) # prueba de homocedasticidad. p <0.05
@@ -26,7 +23,7 @@ kruskal.test(`Total` ~ NombreCO)
 
 # Analisis de similitudes
 # Zonas
-ANOSIM_articulo <- read_excel("C:/Users/ctorr/OneDrive/Escritorio/Base_aves_2.xlsx",
+ANOSIM_articulo <- read_excel("/workdir/tests/data/Base_aves_2.xlsx",
   sheet = "Hoja3"
 )
 
@@ -45,7 +42,7 @@ aves_NMDS <- metaMDS(ANOSIM_articulo[, 2:33],
   trymax = 999, k = 4
 )
 # Oscuros
-Oscuro_artículo <- read_excel("C:/Users/ctorr/OneDrive/Escritorio/Base_aves_2.xlsx",
+Oscuro_artículo <- read_excel("/workdir/tests/data/Base_aves_2.xlsx",
   sheet = "Hoja4"
 )
 
